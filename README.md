@@ -10,5 +10,5 @@ These are all the files for edge detection on the de10 nano FPGA
 
 Images are in JPG and BMP format
 
-The code is compiled C and non-compiled C code + a READ ME txt file.
+The edge detection code is located in the C code folder. This folder contains compiled C and non-compiled C code + a READ ME txt file.
 
