@@ -1,5 +1,9 @@
-# SIT329
+# SIT329 Team 7
 Advance Embedded Systems
+Group names:
+Nathan Clee
+Thomas Koutsaplis
+Keefe Alpay
 
 These are all the files for edge detection on the de10 nano FPGA
 Images are in JPG and BMP format
